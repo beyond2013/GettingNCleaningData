@@ -1,4 +1,5 @@
-Variable Names have been modified in the following way:
+Variable Names have been modified as described below
+
 1. Prefix **t** and **f** have been expanded to time and frequency
 2. Abbreviations have been expanded to full forms 
  1. Acc to Acceleration, Gyro to Gyroscope, Mag to Magnitude, std to StandardDeviation
